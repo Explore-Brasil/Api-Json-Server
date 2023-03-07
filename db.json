@@ -7,5 +7,177 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "states": [
+    {
+      "name": "Acre",
+      "id": 1,
+      "info": "Situa-se no sudoeste da região Norte e tem como limites o Amazonas a norte, Rondônia a leste, a Bolívia a sudeste e o Peru ao sul e oeste.",
+      "img": "https://www.visiteobrasil.com.br/galerias/gal-rio-branco/503-013359-n-rio-branco-viagem-turismo-sergio-vale-secomgr.jpg"
+    },
+    {
+      "name": "Alagoas",
+      "id": 2,
+      "info": "Composto por 102 municípios, Alagoas situa-se a leste da região Nordeste, tendo como limites Pernambuco a norte e noroeste, Sergipe ao sul, Bahia ao sudoeste e oceano Atlântico a leste. Atualmente, a atividade econômica que mais cresce no estado é o turismo, sendo a capital Maceió uma das mais visitadas da região nordeste.",
+      "img": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/296404/97ae7de9ba2c246cc2b8e6d645f36d44orla/16,18,1164,695/670,400,0.38/0/default.jpg"
+    },
+    {
+      "name": "Amapá",
+      "id": 3,
+      "info": "Situa-se a nordeste da região Norte e tem como limites a Guiana Francesa a norte, o Oceano Atlântico a leste, o Pará a sul e oeste e o Suriname a noroeste.",
+      "img": "https://d3csixunm0sjcw.cloudfront.net/wp-content/uploads/2020/06/25155847/amapa.jpg"
+    },
+    {
+      "name": "Amazonas",
+      "id": 4,
+      "info": "O Amazonas é a mais extensa das unidades federativas do Brasil. Tem como limites a Venezuela e Roraima a norte, o Pará a leste, o Mato Grosso a sudeste, Rondônia a sul, o Acre a sudoeste, o Peru a oeste e a Colômbia a noroeste.",
+      "img": "https://psbnacamara.org.br/wp-content/uploads/2020/12/alma-livre-blog-descubra-onde-nasce-o-rio-amazonas-960x636.jpg"
+    },
+    {
+      "name": "Bahia",
+      "id": 5,
+      "info": "A Bahia é o estado mais populoso da região Nordeste. Situa-se ao sul dessa região e faz divisa com oito estados: Alagoas, Sergipe, Pernambuco e Piauí ao norte, Minas Gerais e Espírito Santo ao sul, Goiás e Tocantins a Oeste.",
+      "img": "https://www.portaleventos.com.br/img3.php?id_imagem=98917"
+    },
+    {
+      "name": "Ceará",
+      "id": 6,
+      "info": "O Ceará está localizado na região nordeste, tendo como limites o Oceano Atlântico a norte e nordeste, o Rio Grande do Norte e a Paraíba a leste, Pernambuco a sul e o Piauí a oeste.",
+      "img": "https://media.istockphoto.com/id/1023741122/pt/foto/skyline-of-fortaleza-city-beach-brazil.jpg?s=1024x1024&w=is&k=20&c=Qg-XeL4tO5f79RPS3-CFKecpZZX2EX9HWWN8ZPBVwvU="
+    },
+    {
+      "name": "Distrito Federal",
+      "id": 7,
+      "info": "No Distrito Federal localiza-se a capital do país, Brasília, fundada em 21 de Abril de 1960. Até a criação de Brasília, a Capital Federal era a cidade do Rio de Janeiro.",
+      "img": "https://blog.123milhas.com/wp-content/uploads/2022/09/distrito-federal-conheca-historia-turismo-e-mais-conexao123-1.jpg"
+    },
+    {
+      "name": "Espírito Santo",
+      "id": 8,
+      "info": "O Espírito Santo tem como limites o oceano Atlântico a leste, a Bahia a norte, Minas Gerais a oeste e noroeste e o estado do Rio de Janeiro a sul. Toda pessoa nascida no estado é conhecida como Capixaba ou Espiritossantense.",
+      "img": "https://www.vidadeturista.com/wp-content/uploads/2020/07/ponte-vitoria-espirito-santo.jpg"
+    },
+    {
+      "name": "Goiás",
+      "id": 9,
+      "info": "É o mais populoso da região centro-oeste (43% da população) e o mais central dos estados brasileiros. Goiás faz parte do planalto Central, sendo constituído por terras planas cuja altitude varia entre 200 e 1200 metros. A vegetação predominante é o cerrado.",
+      "img": "https://wikitravel.org/upload/pt/3/3f/Vaca_Brava_Goiania.jpg"
+    },
+    {
+      "name": "Maranhão",
+      "id": 10,
+      "info": "Situa-se no oeste da região Nordeste, tendo como limites o Oceano Atlântico a norte, o Piauí a leste, Tocantins ao sul e sudoeste e e o Pará a Oeste. É o único estado da região com parte de sua área coberta pela floresta Amazônica, apresentando importantes áreas de proteção ambiental. Em 1997, a capital São Luis foi declarada patrimônio histórico da humanidade pela Unesco.",
+      "img": "https://s1.static.brasilescola.uol.com.br/be/2021/05/lencois-maranhenses.jpg"
+    },
+    {
+      "name": "Mato Grosso",
+      "id": 11,
+      "info": "É o terceiro maior estado do país em área. Situa-se a oeste da região Centro-Oeste. A maior parte de seu território é ocupado pela Amazônia Legal. Tem como limites Amazonas e Pará a norte; Tocantins e Goiás a leste; Mato Grosso do Sul ao sul; Rondônia e Bolívia a oeste.",
+      "img": "https://www.sonoticias.com.br/wp-content/uploads/2021/02/Cuiaba%CC%81-ae%CC%81rea-16-fevereiro-2021-Luiz-Alvesassessoria.jpg"
+    },
+    {
+      "name": "Mato Grosso do Sul",
+      "id": 12,
+      "info": "As terras onde hoje se localiza o estado de Mato Grosso do Sul começaram a ser povoadas em 1830. O estado constituía a parte meridional do estado do Mato Grosso, do qual foi desmembrado por lei complementar de 1977, assinada pelo presidente Ernesto Geisel. Uma parte do antigo estado estava localizado dentro da Amazônia legal, cuja área se estendeu mais para o sul, a fim de beneficiar com seus incentivos fiscais a nova unidade da federação.",
+      "img": "https://blog.123milhas.com/wp-content/uploads/2023/03/turismo-no-pantanal-do-mato-grosso-do-sul-guia-de-viagem-por-do-sol-no-pantanal-conexao123.jpg"
+    },
+    {
+      "name": "Minas Gerais",
+      "id": 13,
+      "info": "É o segundo estado mais populoso do Brasil. Somente a capital, Belo Horizonte, possui em torno de cinco milhões de habitantes em sua região metropolitana. Situa-se na região sudeste e tem como limites São Paulo a sul e sudoeste, Mato Grosso do Sul a oeste, Goiás a noroeste (além de uma pequena divisa com o Distrito Federal), Espírito Santo a leste , Rio de Janeiro a sudeste e Bahia a norte e nordeste.",
+      "img":"http://www.simi.org.br/files/2018/JULHO/BH.jpg"
+    },
+    {
+      "name": "Pará",
+      "id": 14,
+      "info": "É o segundo maior estado do Brasil, ficando atrás apenas do Amazonas. Situa-se no centro da região Norte, tendo como limites o Suriname e o Amapá a norte, o oceano Atlântico a nordeste, o Maranhão a leste, Tocantins a sudeste, Mato Grosso a sul e Amazonas a oeste e Roraima e a Guiana a noroeste.",
+      "img": "https://www.aprendizdeviajante.com/wp-content/uploads/2019/11/66FCDE49-9347-4713-AB17-7CD4B9F68063.jpeg"
+    },
+    {
+      "name": "Paraíba",
+      "id": 15,
+      "info": "Situa-se a leste da região Nordeste, tendo como limites o Rio Grande do Norte ao norte, o Oceano Atlântico a leste, Pernambuco ao sul e o Ceará a oeste.",
+      "img": "https://a.cdn-hotels.com/gdcs/production39/d966/746387c2-6288-49af-ad7c-e5f9bd5762d2.jpg?impolicy=fcrop&w=1600&h=1066&q=medium"
+    },
+    {
+      "name": "Paraná",
+      "id": 16,
+      "info": "Situa-se na região Sul e tem como limites São Paulo a norte e nordeste, o oceano Atlântico a leste, Santa Catarina ao sul, Argentina a sudoeste, Paraguai a oeste e Mato Grosso do Sul a noroeste. Abriga o que restou da mata das araucárias e tem como clima predominante o subtropical úmido.",
+      "img": "https://static.preparaenem.com/2021/06/cataratas-iguacu.jpg"
+    },
+    {
+      "name": "Pernambuco",
+      "id": 17,
+      "info": "Situa-se no centro-leste da região Nordeste, tendo como limites Paraíba e Ceará a noroeste, o Oceano Atlântico a leste, Alagoas e Bahia ao sul e Piauí a Oeste.",
+      "img": "https://blog.123milhas.com/wp-content/uploads/2022/08/conheca-estado-pernambuco-fernando-de-noronha-conexao123-1.jpg"
+    },
+    {
+      "name": "Piauí",
+      "id": 18,
+      "info": "Situa-se a noroeste da região Nordeste, tendo como limites o Oceano Atlântico ao norte, Ceará e Pernambuco a leste, Bahia ao sul e sudeste, Tocantins ao sudoeste e Maranhão a oeste e noroeste. A região do Piauí só começou a ser povoada no século XVII, quando os vaqueiros, vindos principalmente da Bahia, chegaram procurando pastos.",
+      "img":"https://www.maladeaventuras.com/wp-content/uploads/2021/03/pedra-sal-piaui%CC%81.jpg"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "id": 19,
+      "info": "É o menor estado da região Sudeste e possui a terceira maior população do país. Situa-se no leste da região Sudeste, tendo como limites Minas Gerais ao norte e noroeste, Espírito Santo a nordeste, São Paulo a sudoeste e o Oceano Atlântico a leste e ao sul. Sua capital é a cidade do Rio de Janeiro. Os habitantes ou naturais do município do Rio de Janeiro são designados pelo gentílico carioca. Porém, o termo fluminense é usado também para designar algo ou alguém relacionado ao estado.",
+      "img":"https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/03/1-cristo-redentor.jpg"
+    },
+    {
+      "name": "Rio Grande do Norte",
+      "id": 20,
+      "info": "Situa-se na Região Nordeste, tendo como limites o Oceano Atlântico a norte e a leste, a Paraíba ao sul e o Ceará a oeste. Os habitantes ou naturais do Rio Grande do Norte são designados pelo gentílico potiguar ou norte-rio-grandense. Potiguar era o nome de uma nação tupi que habitava a região litorânea em que hoje se localiza o estado.",
+      "img":"https://valenciahotelnatal.com.br/wp-content/uploads/2022/07/natal-ponta-negra.png"
+    },
+    {
+      "name": "Rio Grande do Sul",
+      "id": 21,
+      "info": "O Rio Grande do Sul, o estado mais meridional do país, é o maior e o mais populoso estado da região Sul. Tem como limites Santa Catarina ao norte, o Oceano Atlântico ao leste, o Uruguai ao sul e a Argentina a oeste. É o quarto estado mais rico do país, superado apenas por São Paulo, Minas Gerais e Rio de Janeiro. É também o quinto mais populoso e o terceiro no que diz respeiro ao IDH (índice de desenvolvimento humano).",
+      "img": "https://media.istockphoto.com/id/1157041336/pt/foto/gramado-rio-grande-do-sul-brazil-in-christmas.jpg?s=1024x1024&w=is&k=20&c=2VpGqlS3eCMTQ4KH0m2RATBB7DN8A7g4CYhCSoxssJ8="
+    },
+    {
+      "name": "Rondônia",
+      "id": 22,
+      "info": "Situa-se na região Norte, tendo como limites o Amazonas ao norte, Mato Grosso a leste, Bolívia ao sul e oeste e o Acre a oeste.",
+      "img": "https://s2.glbimg.com/VaexsC3X3elyDCCAJD30J-Baksg=/0x0:1300x717/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/N/QUZPrjSEytStDbn925yw/cidade-ji-parana.jpg"
+    },
+    {
+      "name": "Roraima",
+      "id": 23,
+      "info": "É o menos populoso dos estados brasileiros. Roraima é também o estado mais setentrional da região norte, tendo como limites a Venezuela ao norte e noroeste, Guiana a leste, Pará a sudeste e Amazonas a sudeste e oeste.",
+      "img":"https://www.infoescola.com/wp-content/uploads/2012/12/monte-roraima_747945205.jpg"
+    },
+    {
+      "name": "Santa Catarina",
+      "id": 24,
+      "info": "É o menor e menos populoso estado da região Sul. Situa-se no centro da Região Sul, tendo como limites o Paraná ao norte, o Rio Grande do Sul ao sul, o Oceano Atlântico a leste e a Argentina a oeste.",
+      "img": "https://hotelrouxinol.com.br/wp-content/uploads/2020/03/original-ebd6426cddff7653bef6599802b56e11-1024x682.jpeg"
+    },
+    {
+      "name": "São Paulo",
+      "id": 25,
+      "info": "São Paulo é o estado mais rico e mais populoso do Brasil, possuindo o maior parque industrial e a maior produção econômica da América do Sul. Situa-se no sul da região Sudeste, tendo como limites Minas Gerais a norte e nordeste, Rio de Janeiro a nordeste, Oceano Atlântico a leste, Paraná ao sul e Mato Grosso do Sul a oeste.",
+      "img":"https://www.visitbrasil.com/wp-content/uploads/2021/08/Sao-Paulo-SP-Visit-Brasil-7-1-1024x683.jpg"
+    },
+    {
+      "name": "Sergipe",
+      "id": 26,
+      "info": "É o menor estado brasileiro em área. Situa-se na região Nordeste, tendo como limites Alagoas a noroeste, Oceano Atlântico a leste e Bahia ao sul e oeste. Sergipe tornou-se uma capitania autônoma em 1820, quando foi desmembrado da Bahia.",
+      "img":"https://blog.123milhas.com/wp-content/uploads/2022/07/sergipe-conexao123.jpg"
+    },
+    {
+      "name": "Tocantins",
+      "id": 27,
+      "info": "Situa-se a sudeste da Região Norte, tendo como limites o Maranhão a nordeste, o Piauí a leste, a Bahia a sudeste, Goiás a sul, Mato Grosso a sudoeste e o Pará a noroeste. O estado apresenta características climáticas e físicas tanto da zona central do Brasil quanto da Amazônia.",
+      "img":"https://www.sindifiscal.org.br/media/sindifiscal/jalapao.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "description": "lorem ipsum dolor amet",
+      "statesId": 1,
+      "avaliation": 5
+    }
   ]
 }
