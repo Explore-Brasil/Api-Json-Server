@@ -1,4 +1,5 @@
 {
+  "login": [],
   "users": [
     {
       "email": "kenzinho@mail.com",
@@ -6,6 +7,27 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "douglas@mail.com",
+      "password": "$2a$10$qUHWmSVxlGA5b/ZFee5TQ.qHzIVyCzKaUm2FtQsBMxx0L8bwDVLQC",
+      "id": 2
+    },
+    {
+      "email": "douglas1@mail.com",
+      "password": "$2a$10$yn3/zcFss8Dyu5XHAU6A8u9neaHTyOfSDRnxMpztjjYd/owiIFnGO",
+      "name": "Douglas",
+      "id": 3
+    },
+    {
+      "email": "douglas1@mail.com.br",
+      "password": "$2a$10$644..4ZRBuZyBswhosr76eKqRnaQt0fU.0hXGWtm/7FTeV33hHYDK",
+      "id": 4
+    },
+    {
+      "email": "douglas@mail.com.br",
+      "password": "$2a$10$8X70R7Fp9ZKuJW23KjEBYePiFhhbGt/0gdAxlFR4C/jrXBqSjpfOG",
+      "id": 5
     }
   ],
   "states": [
@@ -85,7 +107,7 @@
       "name": "Minas Gerais",
       "id": 13,
       "info": "É o segundo estado mais populoso do Brasil. Somente a capital, Belo Horizonte, possui em torno de cinco milhões de habitantes em sua região metropolitana. Situa-se na região sudeste e tem como limites São Paulo a sul e sudoeste, Mato Grosso do Sul a oeste, Goiás a noroeste (além de uma pequena divisa com o Distrito Federal), Espírito Santo a leste , Rio de Janeiro a sudeste e Bahia a norte e nordeste.",
-      "img":"http://www.simi.org.br/files/2018/JULHO/BH.jpg"
+      "img": "http://www.simi.org.br/files/2018/JULHO/BH.jpg"
     },
     {
       "name": "Pará",
@@ -115,19 +137,19 @@
       "name": "Piauí",
       "id": 18,
       "info": "Situa-se a noroeste da região Nordeste, tendo como limites o Oceano Atlântico ao norte, Ceará e Pernambuco a leste, Bahia ao sul e sudeste, Tocantins ao sudoeste e Maranhão a oeste e noroeste. A região do Piauí só começou a ser povoada no século XVII, quando os vaqueiros, vindos principalmente da Bahia, chegaram procurando pastos.",
-      "img":"https://www.maladeaventuras.com/wp-content/uploads/2021/03/pedra-sal-piaui%CC%81.jpg"
+      "img": "https://www.maladeaventuras.com/wp-content/uploads/2021/03/pedra-sal-piaui%CC%81.jpg"
     },
     {
       "name": "Rio de Janeiro",
       "id": 19,
       "info": "É o menor estado da região Sudeste e possui a terceira maior população do país. Situa-se no leste da região Sudeste, tendo como limites Minas Gerais ao norte e noroeste, Espírito Santo a nordeste, São Paulo a sudoeste e o Oceano Atlântico a leste e ao sul. Sua capital é a cidade do Rio de Janeiro. Os habitantes ou naturais do município do Rio de Janeiro são designados pelo gentílico carioca. Porém, o termo fluminense é usado também para designar algo ou alguém relacionado ao estado.",
-      "img":"https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/03/1-cristo-redentor.jpg"
+      "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/03/1-cristo-redentor.jpg"
     },
     {
       "name": "Rio Grande do Norte",
       "id": 20,
       "info": "Situa-se na Região Nordeste, tendo como limites o Oceano Atlântico a norte e a leste, a Paraíba ao sul e o Ceará a oeste. Os habitantes ou naturais do Rio Grande do Norte são designados pelo gentílico potiguar ou norte-rio-grandense. Potiguar era o nome de uma nação tupi que habitava a região litorânea em que hoje se localiza o estado.",
-      "img":"https://valenciahotelnatal.com.br/wp-content/uploads/2022/07/natal-ponta-negra.png"
+      "img": "https://valenciahotelnatal.com.br/wp-content/uploads/2022/07/natal-ponta-negra.png"
     },
     {
       "name": "Rio Grande do Sul",
@@ -145,7 +167,7 @@
       "name": "Roraima",
       "id": 23,
       "info": "É o menos populoso dos estados brasileiros. Roraima é também o estado mais setentrional da região norte, tendo como limites a Venezuela ao norte e noroeste, Guiana a leste, Pará a sudeste e Amazonas a sudeste e oeste.",
-      "img":"https://www.infoescola.com/wp-content/uploads/2012/12/monte-roraima_747945205.jpg"
+      "img": "https://www.infoescola.com/wp-content/uploads/2012/12/monte-roraima_747945205.jpg"
     },
     {
       "name": "Santa Catarina",
@@ -157,27 +179,30 @@
       "name": "São Paulo",
       "id": 25,
       "info": "São Paulo é o estado mais rico e mais populoso do Brasil, possuindo o maior parque industrial e a maior produção econômica da América do Sul. Situa-se no sul da região Sudeste, tendo como limites Minas Gerais a norte e nordeste, Rio de Janeiro a nordeste, Oceano Atlântico a leste, Paraná ao sul e Mato Grosso do Sul a oeste.",
-      "img":"https://www.visitbrasil.com/wp-content/uploads/2021/08/Sao-Paulo-SP-Visit-Brasil-7-1-1024x683.jpg"
+      "img": "https://www.visitbrasil.com/wp-content/uploads/2021/08/Sao-Paulo-SP-Visit-Brasil-7-1-1024x683.jpg"
     },
     {
       "name": "Sergipe",
       "id": 26,
       "info": "É o menor estado brasileiro em área. Situa-se na região Nordeste, tendo como limites Alagoas a noroeste, Oceano Atlântico a leste e Bahia ao sul e oeste. Sergipe tornou-se uma capitania autônoma em 1820, quando foi desmembrado da Bahia.",
-      "img":"https://blog.123milhas.com/wp-content/uploads/2022/07/sergipe-conexao123.jpg"
+      "img": "https://blog.123milhas.com/wp-content/uploads/2022/07/sergipe-conexao123.jpg"
     },
     {
       "name": "Tocantins",
       "id": 27,
       "info": "Situa-se a sudeste da Região Norte, tendo como limites o Maranhão a nordeste, o Piauí a leste, a Bahia a sudeste, Goiás a sul, Mato Grosso a sudoeste e o Pará a noroeste. O estado apresenta características climáticas e físicas tanto da zona central do Brasil quanto da Amazônia.",
-      "img":"https://www.sindifiscal.org.br/media/sindifiscal/jalapao.jpg"
+      "img": "https://www.sindifiscal.org.br/media/sindifiscal/jalapao.jpg"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "description": "lorem ipsum dolor amet",
+      "user": "Douglas",
+      "title": "Evento do bar do marquinhos",
+      "comment": "o bar do marquinhos é super agradavel e tem cerveja barata",
+      "img": "",
       "statesId": 1,
-      "avaliation": 5
+      "avaliation": 0
     }
   ]
 }
