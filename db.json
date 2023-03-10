@@ -385,6 +385,78 @@
       "avaliation": 5,
       "userId": "2",
       "id": 3
+    },
+    {
+      "title": "Beto Carrero World - Penha",
+      "comment": "Eu amo o Beto Carrero, melhor parque de diversões do mundo!",
+      "img": "",
+      "statesId": 24,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Santo Antônio de Lisboa",
+      "comment": "Um passeio maravilhoso",
+      "img": "",
+      "statesId": 24,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Parque Ibirapuera - São Paulo",
+      "comment": "Amei o parque! Ainda comi cachorro-quente com purê de batata!",
+      "img": "",
+      "statesId": 25,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Avenida Paulista",
+      "comment": "Amo andar pela Avenida Paulista",
+      "img": "",
+      "statesId": 25,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Cânios de Xingó - Canindé de São Francisco",
+      "comment": "O lugar é simplesmente maravilhoso, recomendo a visita.",
+      "img": "",
+      "statesId": 26,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Praia da Costa - Barra dos Coqueiros",
+      "comment": "Só não dou nota máxima porque o mar não é de águas cristalinas.",
+      "img": "",
+      "statesId": 26,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Jalapão - Tocantins",
+      "comment": "Esse lugar é uma maravilha da natureza.",
+      "img": "",
+      "statesId": 27,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Catedral Nossa Senhora Das Mercês - Porto Nacional",
+      "comment": "Uma igreja muito bonita!",
+      "img": "",
+      "statesId": 27,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
     }
   ]
 }
