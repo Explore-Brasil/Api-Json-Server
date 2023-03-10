@@ -12,6 +12,8 @@ const rules = auth.rewriter({
   states: 664,
 });
 
+delete rules.login;
+
 app.use(cors());
 app.use(rules);
 app.use(auth);

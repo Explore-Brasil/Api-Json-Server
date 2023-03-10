@@ -1,4 +1,5 @@
 {
+  "login": [],
   "users": [
     {
       "email": "kenzinho@mail.com",
@@ -8,42 +9,9 @@
       "id": 1
     },
     {
-      "name": "Arthur",
-      "email": "arthur@mail.com",
-      "password": "123456@a",
+      "email": "douglas@mail.com",
+      "password": "$2a$10$qUHWmSVxlGA5b/ZFee5TQ.qHzIVyCzKaUm2FtQsBMxx0L8bwDVLQC",
       "id": 2
-    },
-    {
-      "email": "arthur@mail.com",
-      "password": "123456@a",
-      "id": 3
-    },
-    {
-      "email": "arthur@mail.com",
-      "password": "123456@a",
-      "id": 4
-    },
-    {
-      "email": "arthur@mail.com",
-      "password": "123456@a",
-      "id": 5
-    },
-    {
-      "email": "arthur@mail.com",
-      "password": "123456@a",
-      "id": 6
-    },
-    {
-      "email": "arthur@mail.com.br",
-      "password": "$2a$10$eEroQDx7UxJX9rnLl80WCu1Yv8bgH/rs6qpTyyeSWRw9fV34ctUJG",
-      "name": "Arthur",
-      "id": 7
-    },
-    {
-      "email": "teste@mail.com.br",
-      "password": "$2a$10$VkQi8oW1Dmd045SmyOAcWeIbe4k2..61esJF7pGthXZ7adeLqIASu",
-      "name": "Teste",
-      "id": 8
     }
   ],
   "states": [
@@ -212,18 +180,336 @@
   ],
   "comments": [
     {
-      "id": 1,
-      "description": "lorem ipsum dolor amet",
+      "title": "Centro de Pesquisas Museológicas Museu Sacaca - Macapá",
+      "comment": "Experiência cultural na cidade com recriação de ocas e paisagem da floresta. Conta a história do senhor Sacaca e é um ótimo passeio pra fazer com crianças. Entrada gratuita. Adultos não nortistas ou de cidade grande podem viajar com algumas imagens e propostas do ambiente.",
+      "img": "",
       "statesId": 1,
-      "avaliation": 5
+      "avaliation": 4,
+      "userId": "2",
+      "id": 1
     },
     {
-      "title": "uahhheuhue",
-      "comment": "kaskdooask",
+      "title": "Marco Zero - Macapá",
+      "comment": "Gostei de visitar o marco zero, e sensacional poder estar nos dois hemisfério ao mesmo tempo! Só falta uma lanchonete, para ficar ainda melhor!",
       "img": "",
-      "user": "Arthur",
+      "statesId": 3,
       "avaliation": 5,
-      "userId": "7",
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Parque Nacional da Serra do Divisor",
+      "comment": "Para quem quer se desligar! Lugar fantástico! Muita aventura e experiência única. O lugar é muito distante e dispõe de uma paisagem belíssima, além de ser muito rico de recursos naturais. Vá em excursão e prepare-se para se desligar de todo o caos urbano por uns dias!",
+      "img": "",
+      "statesId": 1,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Rio Crôa - Cruzeiro do Sul",
+      "comment": "Lugar fantástico! Muita aventura e experiência única. Local para pesca e banho no rio",
+      "img": "",
+      "statesId": 1,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Praia de São Miguel dos Milagres",
+      "comment": "A melhor praia da costa de Alagoas, sensacional, águas muito quentes e calmas, se for ver as piscinas vai se apaixonar, lá tem um rapaz que tira fotos por 5,00 com o seu celular ficam tops, águas límpidas !",
+      "img": "",
+      "statesId": 2,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Vila Gale Cerro Alagoa",
+      "comment": "O Hotel Vila Galé Cerro Alagoa está no centro de animação do Algarve, a escolha perfeita para férias em Albufeira. Localizado no centro de Albufeira, este hotel combina a agitação diurna e a noite de Albufeira com as principais lojas e comércio do Algarve.",
+      "img": "",
+      "statesId": 2,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Igreja de São Sebastião e São Francisco de Assis - Manaus",
+      "comment": "Mesmo não sendo católico praticamente eu sempre q viajo visito mesmo a de fora as igrejas pois acho lindo e como carioca tendo São Sebastião como padroeiro não poderia deixar de ir na igreja de São Sebastião q é linda",
+      "img": "",
+      "statesId": 4,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Museu do Teatro Amazonas - Manaus",
+      "comment": "Imperdível, o teatro é lindo, cuidadosamente decorado, na época em que viajamos assistimos dois shows, com artistas de excelente qualidade: tenores, sopranos, orquestra ao vivo e corpo de baile.",
+      "img": "",
+      "statesId": 4,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Ilha dos Frades - Salvador",
+      "comment": "Lugar incrivel! Cercado por natureza e uma praia exuberante que chega nos deixar pasmem",
+      "img": "",
+      "statesId": 5,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Parque Nacional Chapada Diamantina - Palmeiras",
+      "comment": "É muito bonito, lugares mágicos, cheios de gente bonita. É importante levar protetor solar e chapéu, faz muito calor, os preços de entrada nos parques e excursões são um pouco mais altos do que no resto do Brasil, claramente devido ao fluxo de turismo internacional.",
+      "img": "",
+      "statesId": 5,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Lagoa do Paraíso - Jericoacoara",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 6,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Five Sport Bar Brasilia",
+      "comment": "Comida deliciosa, ambiente agradável e divertido. Fui muito bem atendido pelo garçom Ary, ótima experiência",
+      "img": "",
+      "statesId": 7,
+      "avaliation": 3,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Praia Bacutia - Guarapari",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 8,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Lagoa do Paraíso - Jericoacoara",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 9,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Lagoa do Paraíso - Jericoacoara",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 10,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Palácio Araguaia - Palmas",
+      "comment": "É muito imponente e agrega valores históricos e culturais da região, além de religiosidade e arquitetura arrojada.",
+      "img": "",
+      "statesId": 27,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Jalapão",
+      "comment": "Um lugar lindo e cheio de vida, já quero voltar!",
+      "img": "",
+      "statesId": 27,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Praia da Graciosa - Palmas",
+      "comment": "Refresco no calor de Palmas",
+      "img": "",
+      "statesId": 27,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 3
+    },
+    {
+      "title": "Palácio Olímpio Campos - Aracaju",
+      "comment": "O palácio trás a historia politica do estado, com uma grandeza estrutural magnifica muito lindo de se ver.",
+      "img": "",
+      "statesId": 26,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Praia do Saco - Estância",
+      "comment": "Praia maravilhosa!! Vale muito a pena o passeio de buggy para conhecer a ponta da praia (Ponta do Saco)!",
+      "img": "",
+      "statesId": 26,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Parque Ibirapuera - São Paulo",
+      "comment": "Parque lindo, lugar excelente para passear com a família.",
+      "img": "",
+      "statesId": 25,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Catedral da Sé de São Paulo",
+      "comment": "Muito linda da Catedral. Recomendo. Igreja que atrai muito turista um lugar próximo a estação da Sé.",
+      "img": "",
+      "statesId": 25,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Balneário Camboriú",
+      "comment": "Lugar maravilhoso, amei o passeio.",
+      "img": "",
+      "statesId": 24,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Praia dos Ingleses - Florianópolis",
+      "comment": "Uma praia linda, gostei muito.",
+      "img": "",
+      "statesId": 24,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Monte Roraima - Canaima National Park",
+      "comment": "Um lugar maravilhoso, a paisagem é incrível.",
+      "img": "",
+      "statesId": 23,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Parque Nacional do Monte Roraima - Boa Vista",
+      "comment": "Majestoso monte Roraima.",
+      "img": "",
+      "statesId": 23,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Museu Geológico do Estado de Rondônia - Porto Velho",
+      "comment": "Ótimo museu, vale a pena visitá-lo.",
+      "img": "",
+      "statesId": 22,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Palácio Getúlio Vargas - Porto Velho",
+      "comment": "Lugar interessante",
+      "img": "",
+      "statesId": 22,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Parque Estadual do Caracol - Canela",
+      "comment": "Natureza deslumbrante.",
+      "img": "",
+      "statesId": 21,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Vale dos Vinhedos - Bento Gonçalves",
+      "comment": "Bom pra tomar aquele vinho.",
+      "img": "",
+      "statesId": 21,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Vale dos Vinhedos - Bento Gonçalves",
+      "comment": "Bom pra tomar aquele vinho.",
+      "img": "",
+      "statesId": 21,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Dunas de Genipabu - Natal",
+      "comment": "É um lugar maravilhoso.",
+      "img": "",
+      "statesId": 20,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Baía dos Golfinhos - Praia da Pipa",
+      "comment": "Os golfinhos são muito legais.",
+      "img": "",
+      "statesId": 20,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Praia de Copacabana - Rio de Janeiro",
+      "comment": "Amei a praia, me senti a Vera Fischer numa novela da Globo.",
+      "img": "",
+      "statesId": 19,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Corcovado - Cristo Redentor - Rio de Janeiro",
+      "comment": "Lugar mais bonito do mundo, pena que o tráfico acaba com a cidade.",
+      "img": "",
+      "statesId": 19,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Parque Ambiental Henriqueta Fortes de Cerqueira - Piracuruca",
+      "comment": "Lugar lindo demais.",
+      "img": "",
+      "statesId": 18,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "Praia Macapá - Luís Correia",
+      "comment": "Águas mornas, calmas e a grande incidência de ventos constantes a fazem perfeita para a prática e aprendizado do kite surf.",
+      "img": "",
+      "statesId": 18,
+      "avaliation": 5,
+      "userId": "2",
       "id": 2
     }
   ]
