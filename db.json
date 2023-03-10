@@ -12,45 +12,6 @@
       "email": "douglas@mail.com",
       "password": "$2a$10$qUHWmSVxlGA5b/ZFee5TQ.qHzIVyCzKaUm2FtQsBMxx0L8bwDVLQC",
       "id": 2
-    },
-    {
-      "email": "douglas1@mail.com",
-      "password": "$2a$10$yn3/zcFss8Dyu5XHAU6A8u9neaHTyOfSDRnxMpztjjYd/owiIFnGO",
-      "name": "Douglas",
-      "id": 3
-    },
-    {
-      "email": "douglas1@mail.com.br",
-      "password": "$2a$10$644..4ZRBuZyBswhosr76eKqRnaQt0fU.0hXGWtm/7FTeV33hHYDK",
-      "id": 4
-    },
-    {
-      "email": "douglas@mail.com.br",
-      "password": "$2a$10$8X70R7Fp9ZKuJW23KjEBYePiFhhbGt/0gdAxlFR4C/jrXBqSjpfOG",
-      "id": 5
-    },
-    {
-      "email": "douglas@mail.com.co",
-      "password": "$2a$10$e6hcIUDS036LeAbPhhlh4Olku6tEOj.MRH161yKj4oHsH2u3wW.3u",
-      "id": 6
-    },
-    {
-      "email": "douglas123@mail.com",
-      "password": "$2a$10$Ba7fUJu9OG4ZK2wPboRUTeUmvYvnb5nWsktvVt4vq35WIaQaSzCTe",
-      "name": "Douglas",
-      "id": 7
-    },
-    {
-      "email": "Douglas@mail.com",
-      "password": "$2a$10$JfKO9xTGPCmVCpaz1mJZ7uacLLWIpA6WYtOZizwB1FvWvQvvT4qey",
-      "name": "Douglas",
-      "id": 8
-    },
-    {
-      "email": "douglaszinho@mail.com",
-      "password": "$2a$10$64E/gD6LfApFWYoWJBd8I.dw3aP0z52e5u2NtyqIsxbVKaJJ/ko0.",
-      "name": "Douglas",
-      "id": 9
     }
   ],
   "states": [
@@ -219,76 +180,139 @@
   ],
   "comments": [
     {
-      "id": 1,
-      "user": "Douglas",
-      "title": "Evento do bar do marquinhos",
-      "comment": "o bar do marquinhos é super agradavel e tem cerveja barata",
+      "title": "Centro de Pesquisas Museológicas Museu Sacaca - Macapá",
+      "comment": "Experiência cultural na cidade com recriação de ocas e paisagem da floresta. Conta a história do senhor Sacaca e é um ótimo passeio pra fazer com crianças. Entrada gratuita. Adultos não nortistas ou de cidade grande podem viajar com algumas imagens e propostas do ambiente.",
       "img": "",
       "statesId": 1,
-      "avaliation": 0
+      "avaliation": 4,
+      "userId": "2",
+      "id": 1
     },
     {
-      "user": "Douglas",
-      "title": "Evento do bar do marquinhos",
-      "comment": "o bar do marquinhos é super agradavel e tem cerveja barata",
+      "title": "Marco Zero - Macapá",
+      "comment": "Gostei de visitar o marco zero, e sensacional poder estar nos dois hemisfério ao mesmo tempo! Só falta uma lanchonete, para ficar ainda melhor!",
       "img": "",
-      "statesId": 1,
-      "avaliation": 0,
+      "statesId": 3,
+      "avaliation": 5,
+      "userId": "2",
       "id": 2
     },
     {
-      "user": "Douglas",
-      "title": "Evento do bar do marquinhos",
-      "comment": "o bar do marquinhos é super agradavel e tem cerveja barata",
+      "title": "Parque Nacional da Serra do Divisor",
+      "comment": "Para quem quer se desligar! Lugar fantástico! Muita aventura e experiência única. O lugar é muito distante e dispõe de uma paisagem belíssima, além de ser muito rico de recursos naturais. Vá em excursão e prepare-se para se desligar de todo o caos urbano por uns dias!",
       "img": "",
       "statesId": 1,
-      "avaliation": 0,
-      "id": 3
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
     },
     {
-      "title": "Muito legal a pagina",
-      "comment": "Gosto muitodo lugar",
+      "title": "Rio Crôa - Cruzeiro do Sul",
+      "comment": "Lugar fantástico! Muita aventura e experiência única. Local para pesca e banho no rio",
       "img": "",
-      "user": "",
-      "avaliation": 5,
-      "userId": "8",
-      "id": 4
+      "statesId": 1,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
     },
     {
-      "title": "Muito legal a pagina",
-      "comment": "Gosto muitodo lugar",
+      "title": "Praia de São Miguel dos Milagres",
+      "comment": "A melhor praia da costa de Alagoas, sensacional, águas muito quentes e calmas, se for ver as piscinas vai se apaixonar, lá tem um rapaz que tira fotos por 5,00 com o seu celular ficam tops, águas límpidas !",
       "img": "",
-      "user": "",
-      "avaliation": 5,
-      "userId": "8",
-      "id": 5
+      "statesId": 2,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
     },
     {
-      "title": "Muito legal a pagina",
-      "comment": "Gosto muitodo lugar",
+      "title": "Vila Gale Cerro Alagoa",
+      "comment": "O Hotel Vila Galé Cerro Alagoa está no centro de animação do Algarve, a escolha perfeita para férias em Albufeira. Localizado no centro de Albufeira, este hotel combina a agitação diurna e a noite de Albufeira com as principais lojas e comércio do Algarve.",
       "img": "",
-      "user": "",
+      "statesId": 2,
       "avaliation": 5,
-      "userId": "8",
-      "id": 6
+      "userId": "2",
+      "id": 2
     },
     {
-      "title": "Muito legal a pagina",
-      "comment": "Gosto muitodo lugar",
+      "title": "Igreja de São Sebastião e São Francisco de Assis - Manaus",
+      "comment": "Mesmo não sendo católico praticamente eu sempre q viajo visito mesmo a de fora as igrejas pois acho lindo e como carioca tendo São Sebastião como padroeiro não poderia deixar de ir na igreja de São Sebastião q é linda",
       "img": "",
-      "user": "",
-      "avaliation": 5,
-      "userId": "8",
-      "id": 7
+      "statesId": 4,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
     },
     {
-      "title": "Muito legal a pagina",
-      "comment": "Gosto muitodo lugar",
+      "title": "Museu do Teatro Amazonas - Manaus",
+      "comment": "Imperdível, o teatro é lindo, cuidadosamente decorado, na época em que viajamos assistimos dois shows, com artistas de excelente qualidade: tenores, sopranos, orquestra ao vivo e corpo de baile.",
       "img": "",
-      "user": "",
+      "statesId": 4,
+      "avaliation": 4,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Ilha dos Frades - Salvador",
+      "comment": "Lugar incrivel! Cercado por natureza e uma praia exuberante que chega nos deixar pasmem",
+      "img": "",
+      "statesId": 5,
       "avaliation": 5,
-      "userId": "8",
-      "id": 8
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Parque Nacional Chapada Diamantina - Palmeiras",
+      "comment": "É muito bonito, lugares mágicos, cheios de gente bonita. É importante levar protetor solar e chapéu, faz muito calor, os preços de entrada nos parques e excursões são um pouco mais altos do que no resto do Brasil, claramente devido ao fluxo de turismo internacional.",
+      "img": "",
+      "statesId": 5,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Lagoa do Paraíso - Jericoacoara",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 6,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Five Sport Bar Brasilia",
+      "comment": "Comida deliciosa, ambiente agradável e divertido. Fui muito bem atendido pelo garçom Ary, ótima experiência",
+      "img": "",
+      "statesId": 7,
+      "avaliation": 3,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Praia Bacutia - Guarapari",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 8,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Lagoa do Paraíso - Jericoacoara",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 9,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Lagoa do Paraíso - Jericoacoara",
+      "comment": "Realmente um paraíso, o passeio do lado Leste como um todo é maravilhoso. Gostei bastante e super indico!",
+      "img": "",
+      "statesId": 10,
+      "avaliation": 5,
+      "userId": "2",
+      "id": 2
     }
   ]
 }
